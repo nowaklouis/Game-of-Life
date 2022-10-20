@@ -1,5 +1,7 @@
 # Game-of-Life
 
+nowaklouis.github.io
+
 Regle du jeu de la Vie de John h. Conway
 
 Le monde du « Jeu de la vie » est un plan infini quadrillé, dont chaque case est, soit occupée
