@@ -2,6 +2,7 @@
 * { 
     padding: 0;
     margin: 0;
+    font-weight: 700;
     box-sizing: border-box;
     font-size: medium;
     font-family: 'Noto Sans', sans-serif;
@@ -43,7 +44,7 @@ nav {
     height: 50px;
     padding-top: 30px;
     z-index: 100;
-    padding-bottom: 80px;
+    padding-bottom: 50px;
 }
 
 nav a {
@@ -222,20 +223,10 @@ p{
 }
 /* footer-----------------------------------------------------------------------------------------------------*/
 
-footer {
-    position: fixed;
-    background-color: var(--col1);
-    bottom: 0;
-    width: 100%;    
-    display: flex;
-    justify-content: flex-end;
-    z-index: 10;
-    padding-right: 5vh ;
+.title_3 {
+    background-color: #2F4858;
+    text-align: end;
 }
-
-footer p{
-    color: var(--alt3);
-} 
 /* features-----------------------------------------------------------------------------------------------------*/
 
 /* Menu déroulant-----------------------------------------------------------------------------------------------------*/
