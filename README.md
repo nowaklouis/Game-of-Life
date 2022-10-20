@@ -1,6 +1,5 @@
 # Game-of-Life
 
-nowaklouis.github.io
 
 Regle du jeu de la Vie de John h. Conway
 
